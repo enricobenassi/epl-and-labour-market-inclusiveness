@@ -9,4 +9,7 @@ The repository contains ca. 2000 lines of code:
 3. 20220815_LFStat_Italy_vF: Elaboration of LFS for the Italian Market data (ca. 310 lines)
 4. 20220815_Descriptive analysis_vF: Elaboration of OECD EPL and Eurostat data, as well as visualization of theoretical model and time series chart (ca. 460 lines)
 
-Please contact the author before downloading or sharing any of the attached documents
+Please contact the author before sharing or editing any of the documents uploaded in this repository
+
+Thank you for your collaboration,
+Candidate Number: 1069668
