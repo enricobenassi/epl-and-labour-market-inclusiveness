@@ -2,13 +2,7 @@
 
 library(plyr) # some basic R commands
 library(tidyverse) # broad range of basic R commands (e.g. reading in data)
-library(arsenal) # quick tables construction (e.g. via tableby)
-library(pander) # tables formatting
-
 library(lubridate) # floor date function
-
-library(texreg) # drawing regression tables
-library(ggeffects) # plotting the predicted values
 library(writexl) # export excel files
 
 # Read-in Original Data Sources -----
