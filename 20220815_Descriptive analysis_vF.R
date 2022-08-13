@@ -24,6 +24,7 @@ f <- 1
 Cs <- 2.5
 Crs <- Cs*r
 
+
 yTs <- function(x) {ifelse(x < Crs, x*(1-(1-r)^d)/r-f, x*1/r-f-(1-r)^d*Cs)}
 yPs <- function(x) {x*(1/r)-Cs}
 
