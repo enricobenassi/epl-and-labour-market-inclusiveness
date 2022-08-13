@@ -179,7 +179,7 @@ DTB <- DT1 %>% filter(Dimension=="Age Group (Years)")
 
 B <- ggplot(DTB, aes(fill=Status, y=Value, x=Variable)) + 
   geom_bar(position="fill", stat="identity") +
-  scale_x_discrete(limits = c("55+", "31-55", "16-30")) + 
+  scale_x_discrete(limits = c("55+", "35-55", "15-34")) + 
   scale_y_continuous(labels = scales::percent) +
   labs(x = "Age Group (Years)", y = "As %",
        title = "Working Age Pop. by Age Group") +
